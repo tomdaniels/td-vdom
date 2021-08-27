@@ -1,4 +1,4 @@
-# vdom
+# td-vdom
 
 basically react :innocent:
 
