@@ -1,12 +1,10 @@
 const express = require('express');
 
-const app = express();
-
 const port = 8080;
+const app = express();
 
 app.use(express.static('./'));
 
-// Our first route
 app.get('/', (req, res) => {
   res.sendFile('./index.html');
 });
