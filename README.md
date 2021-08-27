@@ -14,4 +14,4 @@ it will return an object, with an array of children representing each node.
 
 <img src="docs/output.png" alt="drawing" width="500"/>
 
-..features, docs, everything... more to come.. :v:
+..features, docs, everything else... more to come.. :v:
