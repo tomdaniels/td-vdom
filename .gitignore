@@ -24,6 +24,5 @@ yarn-debug.log*
 yarn-error.log*
 
 # test app files & styles
-todo-app.js
 lib/demo*
 style
